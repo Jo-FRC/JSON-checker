@@ -1,0 +1,23 @@
+* {
+margin:0;
+padding:0;
+list-style:none;
+vertical-align:top;
+left:0;
+top:0;
+}
+
+body {
+}
+
+#container {
+    position: relative;
+}
+
+#button_check {
+
+    height: 30px;
+    width: 100px;
+    position: relative;
+    display: block;
+}
